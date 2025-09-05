@@ -96,7 +96,7 @@ The following documents are required to open a Zerodha account online:
 ' />
               <Faqs ques='Is Zerodha account opening free?' ans='' />
               <Faqs ques='Are there any maintenance charges for a demat account?' ans='Yes, It is completely free.' />
-              <Faqs ques='Can I open a demat account without a bank account?' ans='' />
+              <Faqs ques='Can I open a demat account without a bank account?' ans="To open a demat account, you must have a bank account in your name. If UPI verification is completed successfully, no proof of bank is needed. However, if bank verification fails, you'll need to provide either a cancelled cheque or a bank statement to link your bank account to Zerodha." />
             </div>
           </div>
           <Open />
